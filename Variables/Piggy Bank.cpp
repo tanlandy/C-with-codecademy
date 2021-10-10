@@ -1,5 +1,11 @@
 #include <iostream>
 
+/*
+Your program should then convert the amount 
+entered by the user and display the total amount of USD.
+*/
+
+
 int main() {
   double pesos, reais, soles;
   double dollars;
